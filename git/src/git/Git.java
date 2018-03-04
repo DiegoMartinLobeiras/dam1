@@ -16,8 +16,8 @@ public class Git {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String nombre = "Diego";
-        int años = 19;
+        String nombre = "Parra";
+        int años = 17;
         System.out.println("Hola Mundo, me llamo "+nombre+" y tengo "+años+" años");
     }
     
